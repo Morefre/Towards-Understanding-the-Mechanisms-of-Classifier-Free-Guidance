@@ -17,9 +17,9 @@ Xiang Li, Rongrong Wang, Qing Qu
 
 ### 3) Prepare essential files for running the experiments
 
-1) Download the pre-computed covariance matrices for the 10 classes of Cifar-10 dataset from [Cifar_10_covariances](https://drive.google.com/drive/folders/166r7Zjp0DCdPrJZFoLXdCrL3OGXjzv2q) and place the folder in the edm directory.
-2) Download the pre-computed covariance matrices for 10 randomly selected classes of ImageNet dataset from [ImageNet_covariances](https://drive.google.com/drive/folders/166r7Zjp0DCdPrJZFoLXdCrL3OGXjzv2q) and place the folder in the edm directory.
-3) Download our pretrained unconditional ImageNet EDM model from [Unconditional_EDM](https://drive.google.com/drive/folders/166r7Zjp0DCdPrJZFoLXdCrL3OGXjzv2q) and place the folder in the edm directory.
+1) Download the pre-computed covariance matrices for the 10 classes of Cifar-10 dataset from [Covariance_Cifar](https://drive.google.com/drive/folders/166r7Zjp0DCdPrJZFoLXdCrL3OGXjzv2q) and place the folder in the edm directory.
+2) Download the pre-computed covariance matrices for 10 randomly selected classes of ImageNet dataset from [Covariance_ImageNetGenerated](https://drive.google.com/drive/folders/166r7Zjp0DCdPrJZFoLXdCrL3OGXjzv2q) and place the folder in the edm directory.
+3) Download our pretrained unconditional ImageNet EDM model from [ImageNet_weights](https://drive.google.com/drive/folders/166r7Zjp0DCdPrJZFoLXdCrL3OGXjzv2q) and place the folder in the edm directory.
 
 Refer to appendix C for details on how the empirical means and covariances are generated.
 ## 2. A initial look at Classifier-Free-Guidance (CFG)
