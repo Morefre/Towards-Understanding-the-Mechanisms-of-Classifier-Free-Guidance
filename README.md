@@ -1,6 +1,6 @@
 ## Towards Understanding the Mechanisms of Classifier Free Guidance<br><sub>Official PyTorch implementation of the NeurIPS 2025 paper</sub>
 **Towards Understanding the Mechanisms of Classifier Free Guidance**<br>
-Xiang Li, Rongrong Wang, Qing Quhttps://github.com/Morefre/Towards-Understanding-the-Mechanisms-of-Classifier-Free-Guidance-test/blob/main/README.md
+Xiang Li, Rongrong Wang, Qing Qu
 <br>[https://arxiv.org/abs/2206.00364](https://arxiv.org/abs/2505.19210)<br>
 ![Teaser image](images/distinct_effects_of_cfg_components.jpg)
 
